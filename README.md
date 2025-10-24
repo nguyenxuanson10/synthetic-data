@@ -1,1 +1,1 @@
-# synthetic-data
+# Synthetic data of radar signals (comming soon)
